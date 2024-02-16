@@ -1,0 +1,24 @@
+{
+  "name": "express-file-explorer",
+  "version": "1.0.0",
+  "description": "File Explorer with Express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangxik/express-file-explorer.git"
+  },
+  "keywords": [
+    "express",
+    "file",
+    "explorer"
+  ],
+  "author": "Ken Kong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangxik/express-file-explorer/issues"
+  },
+  "homepage": "https://github.com/xiangxik/express-file-explorer#readme"
+}
